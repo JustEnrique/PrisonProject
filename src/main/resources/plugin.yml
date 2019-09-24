@@ -1,0 +1,5 @@
+name: Prison
+version: 1.0
+main: nl.justenrique.prison.Main
+commands:
+  prison:
